@@ -1,8 +1,8 @@
-package br.com.gpavao.dao;
+package br.com.gpavao.dao.impl;
 
+import br.com.gpavao.dao.IMatriculaDAO;
 import br.com.gpavao.domain.Matricula;
 
-import javax.persistence.Entity;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;

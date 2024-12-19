@@ -1,5 +1,6 @@
-package br.com.gpavao.dao;
+package br.com.gpavao.dao.impl;
 
+import br.com.gpavao.dao.ICursoDAO;
 import br.com.gpavao.domain.Curso;
 
 import javax.persistence.EntityManager;
